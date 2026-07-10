@@ -5,7 +5,7 @@
 بواسطة **يسري حادي (Yosri Hadi)** - [yosrihadi/ChatGpt-Rtl](https://github.com/yosrihadi/ChatGpt-Rtl)
 
 ---
-
+Platform Windows macOS experimental Admin License MIT
 ## لمن هذا المشروع؟
 
 هذا المشروع موجه للمستخدمين العرب (وكذلك مستخدمي العبرية) الذين يعتمدون على تطبيق OpenAI ChatGPT Desktop ويرغبون في الحصول على تجربة كتابة طبيعية من اليمين لليسار داخل التطبيق، وذلك دون المساس بملفات التثبيت الأصلية للتطبيق.
