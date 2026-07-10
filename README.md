@@ -2,8 +2,8 @@
 
 تعديل (Patch) برمجي جاهز لتطبيق **ChatGPT Desktop** الرسمي، يحل مشكلة اتجاه النص (RTL)، ويحسن توافق الكتابة باللغتين العربية والعبرية، والنصوص المدمجة (عربي/إنجليزي)، مع ضبط محاذاة علامات الترقيم، والحفاظ على الأكواد البرمجية من اليسار لليمين (LTR).
 
-بواسطة **يسري حادي (Yosri Hadi)** - 
-[yosrihadi/ChatGpt-Rtl](https://github.com/yosrihadi/ChatGpt-Rtl)
+بواسطة **يسري حادي (Yosri Hadi)** - [yosrihadi/ChatGpt-Rtl](https://github.com/yosrihadi/ChatGpt-Rtl)
+
 ![Platform Windows](https://img.shields.io/badge/Windows-supported-blue) ![macOS experimental](https://img.shields.io/badge/macOS-experimental-lightgrey) ![Admin](https://img.shields.io/badge/admin-not_required-brightgreen) ![License MIT](https://img.shields.io/badge/license-MIT-green)
 ---
 
