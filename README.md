@@ -47,6 +47,8 @@ curl -fsSL https://raw.githubusercontent.com/yosrihadi/ChatGpt-Rtl/main/install-
 
 ## قبل / بعد التعديل
 
+![Before and after RTL behavior in Codex Desktop](docs/rtl-before-after.png)
+
 **ما الذي يتغير فعلياً:**
 
 * **قبل الباتش:** النصوص العربية تظهر ملتصقة باليسار، علامات الاستفهام والترقيم تظهر معكوسة، والأسطر التي تدمج بين العربية والإنجليزية (مثل الأكواد) تبدو متداخلة وغير مقروءة.
