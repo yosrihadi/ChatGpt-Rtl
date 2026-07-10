@@ -16,10 +16,10 @@ If you find a security issue, please report it **privately** so users are
 protected during triage:
 
 - Preferred: open a GitHub
-  [Security Advisory draft](https://github.com/rt25ai/codex-rtl-rt-ai/security/advisories/new)
+  [Security Advisory draft](https://github.com/yosrihadi/ChatGpt-Rtl/security/advisories/new)
   on this repository.
-- Alternative: email `roi@rt-ai.co.il` with the subject line
-  `[security] codex-rtl-rt-ai`. Please include a clear reproduction, the
+- Alternative: email `yosrihadi@hotmail.com` with the subject line
+  `[security] Chatgpt-rtl-rt-ai`. Please include a clear reproduction, the
   affected version (release tag), and your suggested mitigation if any.
 
 I will acknowledge within 72 hours, work with you on a fix, and credit you
@@ -34,7 +34,7 @@ branch. A compromised `main` branch cannot silently affect users who run
 the published one-liner.
 
 If you intentionally want the bleeding-edge code from `main`, pass
-`-Branch main` (PowerShell) or `RT_AI_CODEX_BRANCH=main` (bash). Do this
+`-Branch main` (PowerShell) or `RT_AI_ChatGpt_BRANCH=main` (bash). Do this
 only if you understand the implications.
 
 ## What is in scope
